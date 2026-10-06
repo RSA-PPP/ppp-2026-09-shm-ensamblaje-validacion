@@ -36,8 +36,8 @@ tecnologias:
   - "Almacenamiento y Buses de Expansión: Mapeo PPS para SPI1, controladores sdcard.c/spiSD.c y tarjetas MicroSD Kingston (16/32 GB SDHC)"
 
 repositorio:
-  url: "https://github.com/RedSismicaAustro/RSA-Intern-Ensamblaje_SHM"
-  rama_base: "dev-pasantias"
+  url: "https://github.com/RSA-PPP/ppp-2026-08-shm-ensamblaje-validacion"
+  rama_base: "main"
 ---
 
 ---
@@ -194,7 +194,7 @@ Ensamblar, programar, auditar y validar experimentalmente el hardware y firmware
      - *Problema 2 (Variante dsPIC y daño de LED):* Corrección de pines en corto por variante física y reemplazo de componente averiado.
      - *Problema 3 (Limitación MicroSD):* Diagnóstico formal de la falta de pin mecánico de *card-detect* en el zócalo.
      - *Desviación de diseño:* Justificación del uso del transceptor MAX483 en la línea de sincronismo frente al MAX485 previsto.
-  2. Organizar y limpiar el repositorio oficial en GitHub [RSA-Intern-Ensamblaje_SHM](https://github.com/RedSismicaAustro/RSA-Intern-Ensamblaje_SHM) en la rama `dev-pasantias`:
+  2. Organizar y limpiar el repositorio oficial en GitHub [ppp-2026-08-shm-ensamblaje-validacion](https://github.com/RSA-PPP/ppp-2026-08-shm-ensamblaje-validacion) en la rama `main`:
      - Firmwares del Concentrador y Nodos Sensores A y B.
      - Módulo común RS485 y controladores de tarjeta MicroSD.
      - Carpeta de evidencias gráficas y capturas de osciloscopio.
@@ -239,5 +239,5 @@ El trabajo se ejecutó a lo largo de **6 semanas** (del 30 de julio al 08 de sep
    * Rutina de diagnóstico visual mediante parpadeos codificados de LED (`LED_Error()`).
    * Informe de auditoría física documentando la limitación del zócalo sin pin *card-detect* y recomendaciones para la siguiente revisión de PCB.
 5. **Repositorio Institucional e Informe Técnico Final:**
-   * Código fuente, archivos `.hex`, configuraciones de proyecto y diagramas alojados en: [RSA-Intern-Ensamblaje_SHM](https://github.com/RedSismicaAustro/RSA-Intern-Ensamblaje_SHM/tree/dev-pasantias).
+   * Código fuente, archivos `.hex`, configuraciones de proyecto y diagramas alojados en: [ppp-2026-08-shm-ensamblaje-validacion](https://github.com/RSA-PPP/ppp-2026-08-shm-ensamblaje-validacion).
    * Documento formal institucional de 20 páginas (`David_Timbi_Informe_Practicas.pdf`) aprobado por el tutor institucional de la RSA.

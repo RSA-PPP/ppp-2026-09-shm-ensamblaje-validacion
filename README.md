@@ -1,4 +1,12 @@
-# RSA-Intern-Ensamblaje_SHM
+# ppp-2026-08-shm-ensamblaje-validacion
+## Red de Monitorización de Salud Estructural (SHM) - Ensamblaje y Validación V1.4
+
+> **Código del Proyecto:** `RSA-PPP-2026-08`  
+> **Pasante:** David Timbi (`david.timbi@ucuenca.edu.ec`)  
+> **Tutor Institucional:** Ing. Milton Muñoz (`milton.munozc@ucuenca.edu.ec`) — Red Sísmica del Austro (RSA)  
+> **Estado:** Culminado (96 h) \| **Organización:** [RSA-PPP/ppp-2026-08-shm-ensamblaje-validacion](https://github.com/RSA-PPP/ppp-2026-08-shm-ensamblaje-validacion)
+
+---
 
 Repositorio de ensamblaje, firmware y validacion de una red distribuida de Monitorizacion de Salud Estructural (SHM). El sistema utiliza microcontroladores dsPIC33EP256MC202, comunicacion RS485, sensores acelerometricos ADXL355, sincronizacion por pulsos y almacenamiento directo en tarjeta MicroSD.
 
