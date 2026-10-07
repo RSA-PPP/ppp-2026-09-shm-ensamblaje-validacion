@@ -1,10 +1,10 @@
-# ppp-2026-08-shm-ensamblaje-validacion
+# ppp-2026-09-shm-ensamblaje-validacion
 ## Red de Monitorización de Salud Estructural (SHM) - Ensamblaje y Validación V1.4
 
-> **Código del Proyecto:** `RSA-PPP-2026-08`  
+> **Código del Proyecto:** `RSA-PPP-2026-09`  
 > **Pasante:** David Timbi (`david.timbi@ucuenca.edu.ec`)  
 > **Tutor Institucional:** Ing. Milton Muñoz (`milton.munozc@ucuenca.edu.ec`) — Red Sísmica del Austro (RSA)  
-> **Estado:** Culminado (96 h) \| **Organización:** [RSA-PPP/ppp-2026-08-shm-ensamblaje-validacion](https://github.com/RSA-PPP/ppp-2026-08-shm-ensamblaje-validacion)
+> **Estado:** Culminado (96 h) \| **Organización:** [RSA-PPP/ppp-2026-09-shm-ensamblaje-validacion](https://github.com/RSA-PPP/ppp-2026-09-shm-ensamblaje-validacion)
 
 ---
 
